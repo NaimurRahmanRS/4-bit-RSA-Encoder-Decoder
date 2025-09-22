@@ -1,0 +1,23 @@
+[Files List]
+C:/Aldec/Active-HDL-Student-Edition/vlib/std/src/standard.vhd=S
+E:/test_project/src/half_adder.v=S
+E:/test_project/src/adder_look_ahead.v=S
+E:/test_project/src/full_adder_1bit.v=S
+E:/test_project/src/adder_8bit.v=S
+E:/test_project/src/eq_all.v=S
+E:/test_project/src/look_ahead.v=S
+E:/test_project/src/comp_1bit.v=S
+E:/test_project/src/d_1bit.v=S
+E:/test_project/src/bus_mux.v=S
+E:/test_project/src/sub_8bit.v=S
+E:/test_project/src/comp_8bit.v=S
+E:/test_project/src/d_8bit.v=S
+E:/test_project/src/Decoder.v=S
+E:/test_project/src/comparator_8bit_equal_basic.v=S
+E:/test_project/src/gcd.v=S
+E:/test_project/src/register_load.v=S
+E:/test_project/src/multiplier_4bit.v=S
+E:/test_project/src/sub_4bit_1bit.v=S
+E:/test_project/src/ControlLogic.v=S
+E:/test_project/src/ALU.v=S
+E:/test_project/src/ControlLogic_tb.v=S

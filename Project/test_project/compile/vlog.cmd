@@ -1,0 +1,1 @@
+-o E:/test_project/compile -lc E:/test_project/library.cfg -fl E:/test_project/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -O2 -sve -msg 5 -sv2k17 -work test E:/test_project/src/ControlLogic_tb.v 

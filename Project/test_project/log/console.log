@@ -1,0 +1,263 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+ControlLogic_tb ControlLogic_tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, using existing simulator library: 0.0 [s]
+# SLP: Finished : 0.1 [s]
+# SLP: 0 primitives and 111 (100.00%) other processes in SLP
+# SLP: 632 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 0.2 [s].
+# KERNEL: SLP loading done - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 4731 kB (elbread=428 elab2=4168 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location E:\test_project\src\wave.asdb
+#  10:47 AM, Monday, January 20, 2025
+#  Simulation has been initialized
+run
+# KERNEL: Time = 40 | A = 0011, B = 0101, P = 00001111
+# RUNTIME: Info: RUNTIME_0068 ControlLogic_tb.v (77): $finish called.
+# KERNEL: Time: 360 ps,  Iteration: 0,  Instance: /ControlLogic_tb,  Process: @INITIAL#46_2@.
+# KERNEL: stopped at time: 360 ps
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# Waveform file 'untitled.awc' connected to 'E:/test_project/src/ALU_with_control_logic.asdb'.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+ControlLogic_tb ControlLogic_tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+alog -O2 -sve -msg 5 -sv2k17 -work test $dsn/src/ControlLogic_tb.v
+# Info: VCP2876 ControlLogic_tb.v : (33, 15): Implicit net declaration, symbol load has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 26): Implicit net declaration, symbol mul has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 37): Implicit net declaration, symbol dec has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 48): Implicit net declaration, symbol gcd has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 59): Implicit net declaration, symbol cmp has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 70): Implicit net declaration, symbol mod has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 81): Implicit net declaration, symbol pow has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 92): Implicit net declaration, symbol out has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 103): Implicit net declaration, symbol sel has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 114): Implicit net declaration, symbol inc has not been declared in module ControlLogic_tb.
+# Unit top modules: ControlLogic_tb.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: ELBREAD_0049 The "ControlLogic_tb" design unit does not have a time unit/precision defined but other design units do.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Warning: ALU.v (82): Length of connection (1) does not match the length of port "b" (8) on instance "/ControlLogic_tb/uut_alu/cmp_uut".
+# SLP: Elaboration phase ... done : 0.1 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.9 [s]
+# SLP: Finished : 1.0 [s]
+# SLP: 0 primitives and 111 (100.00%) other processes in SLP
+# SLP: 632 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 1.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 4731 kB (elbread=428 elab2=4168 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location E:\test_project\src\wave.asdb
+#  10:48 AM, Monday, January 20, 2025
+#  Simulation has been initialized
+run
+# KERNEL: Time = 40 | A = 0011, B = 0101, P = 00001111
+# RUNTIME: Info: RUNTIME_0068 ControlLogic_tb.v (77): $finish called.
+# KERNEL: Time: 270 ps,  Iteration: 0,  Instance: /ControlLogic_tb,  Process: @INITIAL#46_2@.
+# KERNEL: stopped at time: 270 ps
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+ControlLogic_tb ControlLogic_tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: ELBREAD_0049 The "ControlLogic_tb" design unit does not have a time unit/precision defined but other design units do.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 0 primitives and 111 (100.00%) other processes in SLP
+# SLP: 632 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 4731 kB (elbread=428 elab2=4168 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location E:\test_project\src\wave.asdb
+#  10:48 AM, Monday, January 20, 2025
+#  Simulation has been initialized
+run
+# KERNEL: Time = 40 | A = 0011, B = 0101, P = 00001111
+# RUNTIME: Info: RUNTIME_0068 ControlLogic_tb.v (77): $finish called.
+# KERNEL: Time: 270 ps,  Iteration: 0,  Instance: /ControlLogic_tb,  Process: @INITIAL#46_2@.
+# KERNEL: stopped at time: 270 ps
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+ControlLogic_tb ControlLogic_tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: ELBREAD_0049 The "ControlLogic_tb" design unit does not have a time unit/precision defined but other design units do.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 0 primitives and 111 (100.00%) other processes in SLP
+# SLP: 632 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 4731 kB (elbread=428 elab2=4168 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location E:\test_project\src\wave.asdb
+#  10:49 AM, Monday, January 20, 2025
+#  Simulation has been initialized
+run
+# KERNEL: Time = 40 | A = 0011, B = 0101, P = 00001111
+# RUNTIME: Info: RUNTIME_0068 ControlLogic_tb.v (77): $finish called.
+# KERNEL: Time: 270 ps,  Iteration: 0,  Instance: /ControlLogic_tb,  Process: @INITIAL#46_2@.
+# KERNEL: stopped at time: 270 ps
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: 42 object(s) traced.
+# Waveform file 'untitled.awc' connected to 'E:/test_project/src/wave.asdb'.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+ControlLogic_tb ControlLogic_tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: ELBREAD_0049 The "ControlLogic_tb" design unit does not have a time unit/precision defined but other design units do.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 0 primitives and 111 (100.00%) other processes in SLP
+# SLP: 632 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 4731 kB (elbread=428 elab2=4168 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location E:\test_project\src\wave.asdb
+#  10:49 AM, Monday, January 20, 2025
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'E:/test_project/src/wave.asdb'.
+run
+# KERNEL: Time = 40 | A = 0011, B = 0101, P = 00001111
+# RUNTIME: Info: RUNTIME_0068 ControlLogic_tb.v (77): $finish called.
+# KERNEL: Time: 270 ps,  Iteration: 0,  Instance: /ControlLogic_tb,  Process: @INITIAL#46_2@.
+# KERNEL: stopped at time: 270 ps
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# Waveform file 'untitled.awc' connected to 'E:/test_project/src/control_logic_sim.asdb'.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+ControlLogic_tb ControlLogic_tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: ELBREAD_0049 The "ControlLogic_tb" design unit does not have a time unit/precision defined but other design units do.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+alog -O2 -sve -msg 5 -sv2k17 -work test $dsn/src/ControlLogic_tb.v
+# Info: VCP2876 ControlLogic_tb.v : (33, 15): Implicit net declaration, symbol load has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 26): Implicit net declaration, symbol mul has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 37): Implicit net declaration, symbol dec has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 48): Implicit net declaration, symbol gcd has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 59): Implicit net declaration, symbol cmp has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 70): Implicit net declaration, symbol mod has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 81): Implicit net declaration, symbol pow has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 92): Implicit net declaration, symbol out has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 103): Implicit net declaration, symbol sel has not been declared in module ControlLogic_tb.
+# Info: VCP2876 ControlLogic_tb.v : (33, 114): Implicit net declaration, symbol inc has not been declared in module ControlLogic_tb.
+# Unit top modules: ControlLogic_tb.
+# Compile success 0 Errors 0 Warnings  Analysis time: 1[s].
+# done
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: ELBREAD_0049 The "ControlLogic_tb" design unit does not have a time unit/precision defined but other design units do.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Warning: ALU.v (82): Length of connection (1) does not match the length of port "b" (8) on instance "/ControlLogic_tb/uut_alu/cmp_uut".
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.4 [s]
+# SLP: Finished : 0.4 [s]
+# SLP: 0 primitives and 111 (100.00%) other processes in SLP
+# SLP: 632 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 0.5 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 4731 kB (elbread=428 elab2=4168 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location E:\test_project\src\wave.asdb
+#  11:51 AM, Monday, January 20, 2025
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'E:/test_project/src/wave.asdb'.
+run
+# KERNEL: Time = 40 | A = 0011, B = 0101, P = 00001111
+# RUNTIME: Info: RUNTIME_0068 ControlLogic_tb.v (76): $finish called.
+# KERNEL: Time: 260 ps,  Iteration: 0,  Instance: /ControlLogic_tb,  Process: @INITIAL#46_2@.
+# KERNEL: stopped at time: 260 ps
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# VSIM: Simulation has finished.
+# Waveform file 'untitled.awc' connected to 'E:/test_project/src/control_logic_sim.asdb'.

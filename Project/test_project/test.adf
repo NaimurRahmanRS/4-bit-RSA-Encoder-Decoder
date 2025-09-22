@@ -1,0 +1,90 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=test
+[Library]
+test=.\test\test.lib
+[$LibMap$]
+test=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Decoder.v=-1
+/ControlLogic.v=-1
+/ControlLogic_tb.v=-1
+/multiplier_4bit.v=-1
+/ALU.v=-1
+/d_1bit.v=-1
+/d_8bit.v=-1
+/d_1bit_2.v=-1
+/d_8bit_2.v=-1
+/sub_8bit.v=-1
+/adder_8bit.v=-1
+/full_adder_1bit.v=-1
+/half_adder.v=-1
+/adder_look_ahead.v=-1
+/sub_4bit_1bit.v=-1
+/look_ahead.v=-1
+/comp_1bit.v=-1
+/comp_8bit.v=-1
+/eq_all.v=-1
+/bus_mux.v=-1
+/gcd.v=-1
+/comparator_8bit_equal_basic.v=-1
+/register_load.v=-1
+/mod.v=-1
+/power_module .v=-1
+/control_logic_tb_2.v=-1
+/control_logic_sim.asdb=-1
+/control_logic_sim.awc=-1
+/ALU_with_control_logic.asdb=-1
+/ALU_with_control_logic.awc=-1
+/gcd_tb.v=-1
+/gcd_tb_sim.asdb=-1
+/gcd_tb_sim.awc=-1
+[Files.Data]
+.\src\Decoder.v=Verilog Source Code
+.\src\ControlLogic.v=Verilog Source Code
+.\src\ControlLogic_tb.v=Verilog Source Code
+.\src\multiplier_4bit.v=Verilog Source Code
+.\src\ALU.v=Verilog Source Code
+.\src\d_1bit.v=Verilog Source Code
+.\src\d_8bit.v=Verilog Source Code
+.\src\d_1bit_2.v=Verilog Source Code
+.\src\d_8bit_2.v=Verilog Source Code
+.\src\sub_8bit.v=Verilog Source Code
+.\src\adder_8bit.v=Verilog Source Code
+.\src\full_adder_1bit.v=Verilog Source Code
+.\src\half_adder.v=Verilog Source Code
+.\src\adder_look_ahead.v=Verilog Source Code
+.\src\sub_4bit_1bit.v=Verilog Source Code
+.\src\look_ahead.v=Verilog Source Code
+.\src\comp_1bit.v=Verilog Source Code
+.\src\comp_8bit.v=Verilog Source Code
+.\src\eq_all.v=Verilog Source Code
+.\src\bus_mux.v=Verilog Source Code
+.\src\gcd.v=Verilog Source Code
+.\src\comparator_8bit_equal_basic.v=Verilog Source Code
+.\src\register_load.v=Verilog Source Code
+.\src\mod.v=Verilog Source Code
+.\src\power_module .v=Verilog Source Code
+.\src\control_logic_tb_2.v=Verilog Source Code
+.\src\control_logic_sim.asdb=Accelerated Waveform File
+.\src\control_logic_sim.awc=Accelerated Waveform Configuration
+.\src\ALU_with_control_logic.asdb=Accelerated Waveform File
+.\src\ALU_with_control_logic.awc=Accelerated Waveform Configuration
+.\src\gcd_tb.v=Verilog Source Code
+.\src\gcd_tb_sim.asdb=Accelerated Waveform File
+.\src\gcd_tb_sim.awc=Accelerated Waveform Configuration
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

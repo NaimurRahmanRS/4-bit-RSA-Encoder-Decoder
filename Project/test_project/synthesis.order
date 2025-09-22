@@ -1,0 +1,27 @@
+i<>.\src\decoder.v
+i<>.\src\control_logic.v
+i<>.\src\testing.v
+i<>.\src\multiplication.v
+i<>.\src\ALU.v
+i<>.\src\d_1bit.v
+i<>.\src\d_8bit.v
+i<>.\src\d_1bit_2.v
+i<>.\src\d_8bit_2.v
+i<>.\src\sub_8bit.v
+i<>.\src\adder_8bit.v
+i<>.\src\full_adder_1bit.v
+i<>.\src\half_adder.v
+i<>.\src\adder_look_ahead.v
+i<>.\src\sub_8bit_2.v
+i<>.\src\look_ahead.v
+i<>.\src\comp_1bit.v
+i<>.\src\comp_8bit.v
+i<>.\src\eq_all.v
+i<>.\src\bus_mux.v
+i<>.\src\gcd.v
+i<>.\src\comparator_8bit_equal_basic.v
+i<>.\src\register_load.v
+i<>.\src\mod.v
+i<>.\src\power_module .v
+i<>.\src\control_logic_tb_2.v
+i<>.\src\gcd_tb.v

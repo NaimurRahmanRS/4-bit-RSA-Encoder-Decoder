@@ -1,0 +1,293 @@
+timestamp=1737352312062
+
+[~A]
+C:/My_Designs/test_project/src/ControlLogic.v=0*103785*104510
+C:/My_Designs/test_project/src/ControlLogic.v_ControlLogic_tb.v=0*101615*102759
+C:/My_Designs/test_project/src/ControlLogic_tb.v=0*109001*109937
+C:/My_Designs/test_project/src/Decoder.v=0*86293*87093
+C:/My_Designs/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v=0*63425*65283
+C:/My_Designs/test_project/src/clock.v=0*68046*68492
+C:/Users/User/Desktop/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_clock.v_multiplier_4bit.v=0*128463*130656
+C:/Users/User/Desktop/test_project/test_project/test_project/src/ALU.v=0*241118*242140
+C:/Users/User/Desktop/test_project/test_project/test_project/src/ALU.v_ControlLogic_tb.v=0*351815*353480
+C:/Users/User/Desktop/test_project/test_project/test_project/src/ControlLogic_tb.v=0*167284*168431
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v=0*158553*161173
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v=0*177182*180172
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v=0*190164*193288
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v=0*197766*201473
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v=0*206272*210382
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v_sub_4bit_1bit.v=0*477356*482090
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v_sub_4bit_1bit.v_look_ahead.v_comp_1bit.v_comp_8bit.v_eq_all.v_bus_mux.v_gcd.v=0*501186*506846
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v_sub_4bit_1bit.v_look_ahead.v_comp_1bit.v_comp_8bit.v_eq_all.v_bus_mux.v_gcd.v_comparator_8bit_equal_basic.v_register_load.v_mod.v_power_module .v=0*871694*878590
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v_sub_4bit_1bit.v_look_ahead.v_comp_1bit.v_comp_8bit.v_eq_all.v_bus_mux.v_gcd.v_comparator_8bit_equal_basic.v_tb_comparator_8bit_equal_basic.v=0*514088*520131
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v_sub_4bit_1bit.v_look_ahead.v_comp_1bit.v_comp_8bit.v_eq_all.v_bus_mux.v_gcd.v_comparator_8bit_equal_basic.v_tb_comparator_8bit_equal_basic.v_register_load.v=0*795798*802209
+C:/Users/User/Desktop/test_project/test_project/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v_sub_4bit_1bit.v_look_ahead.v_comp_1bit.v_comp_8bit.v_eq_all.v_bus_mux.v_gcd.v_comparator_8bit_equal_basic.v_tb_comparator_8bit_equal_basic.v_register_load.v_mod.v_power_module .v=0*826182*833271
+C:/Users/User/Desktop/test_project/test_project/test_project/src/d_1bit.v=0*162244*162725
+C:/Users/User/Desktop/test_project/test_project/test_project/src/d_8bit.v=0*163741*164286
+C:/Users/never/Desktop/test_project/test_project/src/ControlLogic.v=0*141356*142247
+C:/Users/never/Desktop/test_project/test_project/src/ControlLogic_tb.v=0*143179*144474
+C:/Users/never/Desktop/test_project/test_project/src/Decoder.v=0*139201*140247
+C:/Users/never/Desktop/test_project/test_project/src/Decoder.v_multiplier_4bit.v_ControlLogic.v_ControlLogic_tb.v=0*132547*134653
+C:/Users/never/Desktop/test_project/test_project/src/multiplier_4bit.v=0*145448*146150
+E:/test_project/src/ControlLogic_tb.v=0*929522*930784
+E:/test_project/src/ControlLogic_tb_2.v=0*895330*896385
+E:/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v_multiplier_4bit.v_ALU.v_d_1bit.v_d_8bit.v_d_1bit_2.v_d_8bit_2.v_sub_8bit.v_adder_8bit.v_full_adder_1bit.v_half_adder.v_adder_look_ahead.v_sub_4bit_1bit.v_look_ahead.v_comp_1bit.v_comp_8bit.v_eq_all.v_bus_mux.v_gcd.v_comparator_8bit_equal_basic.v_register_load.v_mod.v_power_module .v_control_logic_tb_2.v=0*909596*916612
+E:/test_project/src/control_logic_tb_2.v=0*920324*921429
+E:/test_project/src/gcd_tb.v=0*925663*926275
+E:/test_project/src/half_adder.v_adder_look_ahead.v_full_adder_1bit.v_adder_8bit.v_eq_all.v_look_ahead.v_comp_1bit.v_d_1bit.v_bus_mux.v_sub_8bit.v_comp_8bit.v_d_8bit.v_Decoder.v_comparator_8bit_equal_basic.v_gcd.v_register_load.v_multiplier_4bit.v_sub_4bit_1bit.v_ControlLogic.v_ALU.v_ControlLogic_tb.v=0*885760*891671
+E:/test_project/src/mod.v=0*899424*900017
+E:/test_project/src/power_module .v=0*901024*901803
+LastVerilogToplevel=ControlLogic_tb
+ModifyID=153
+Version=74
+c:/My_Designs/test_project/src/ControlLogic.v=0*38273*39334
+c:/My_Designs/test_project/src/ControlLogic.v_ControlLogic_tb.v=0*51231*52775
+c:/My_Designs/test_project/src/ControlLogic_tb.v=0*49068*50004
+c:/My_Designs/test_project/src/Decoder.v=0*441*985
+c:/My_Designs/test_project/src/Decoder.v_ControlLogic.v_ControlLogic_tb.v=0*24366*26176
+c:/My_Designs/test_project/src/Decoder.v_ControlLogic_tb.v=0*46853*48184
+
+[~MFT]
+0=6|0test.mgf|930784|417782
+1=4|1test.mgf|2907253|2855196
+3=8|3test.mgf|1822760|1786952
+
+[$root]
+A/$root=22|||1*2906799
+BinW64/$root=3*1820540
+SLP=3*1820655
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c92168a183f388a42c7bfc35ecce4c2ee0fd7
+
+[ALU]
+A/ALU=22|../src/ALU.v|1|1*2846197
+BinW64/ALU=3*1779954
+R=../src/ALU.v|1
+SLP=3*1780257
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b3eb40c25b2a3c0379c7730185183eecb3c3d8c0dc33eb91bfc8907aabebc28e
+
+[ControlLogic]
+A/ControlLogic=22|../src/ControlLogic.v|1|1*2837834
+BinW64/ControlLogic=3*1775727
+R=../src/ControlLogic.v|1
+SLP=3*1776102
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|1603d33171c0d7a5e92c055d21e8848d63f2e1b2e0e7a10337c8329586a713e4569a48cdffb4fe84e12ea13c31ea12c3
+
+[ControlLogic_tb]
+A/ControlLogic_tb=22|../src/ControlLogic_tb.v|1|1*2907253
+BinW64/ControlLogic_tb=3*1820723
+R=../src/ControlLogic_tb.v|1
+SLP=3*1822760
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|848ca547d9917cad6bea59d4393d16c528532248b6aeb0bc1ec3067de596fa915b570cd2214a0d647867b518a77234df
+
+[ControlLogic_tb2]
+A/ControlLogic_tb2=22|../src/control_logic_tb_2.v|1|1*2893033
+BinW64/ControlLogic_tb2=3*1808589
+R=../src/control_logic_tb_2.v|1
+SLP=3*1810197
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|848ca547d9917cad6bea59d4393d16c581221375ae40397c6eda9eac460de0d4e077c0fd7b2d22e376a5e0127187df6c
+
+[Decoder]
+A/Decoder=22|../src/Decoder.v|2|1*2834898
+BinW64/Decoder=3*1772270
+R=../src/Decoder.v|2
+SLP=3*1774039
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|1c17319664848e6a353a8c8fab86b23826527262ddaa47cb266f3a3c4d9b973a11c2501b248a2b7021c513eae3b3de9b
+
+[adder_8bit]
+A/adder_8bit=22|../src/adder_8bit.v|1|1*2868319
+BinW64/adder_8bit=3*1789793
+R=../src/adder_8bit.v|1
+SLP=3*1789913
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|885a449ee6758d64c40549ed85f2f28c4a2dd803e7ab7ea255e7a5bb6dc303d5847e66cd54de71c265894298e379e189
+
+[adder_look_ahead]
+A/adder_look_ahead=22|../src/adder_look_ahead.v|1|1*2871918
+BinW64/adder_look_ahead=3*1790902
+R=../src/adder_look_ahead.v|1
+SLP=3*1792650
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|0d6ed96c85ced0f1257ae81aa280f9b04d823f519be3c18d148560aa73be420f989d99545c86b39f2cd6fc75f46c325a
+
+[bus_mux]
+A/bus_mux=22|../src/bus_mux.v|3|1*2880433
+BinW64/bus_mux=3*1798995
+R=../src/bus_mux.v|3
+SLP=3*1799465
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|44a0ec2e9a7a1abb61dd4af3661c9e2826527262ddaa47cb266f3a3c4d9b973a16bc76b9315a69645258e06be24ec911
+
+[clock]
+BinW64/clock=3*230735
+R=../src/clock.v|27
+SLP=3*231178
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b5908d396eb110753762aa81bb2baad014e9ba12e047f0ee19d6395a6a441d80
+
+[comp_1bit]
+A/comp_1bit=22|../src/comp_1bit.v|1|1*2876106
+BinW64/comp_1bit=3*1796852
+R=../src/comp_1bit.v|1
+SLP=3*1797306
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|2659ae7f3a0a9fc26cd21b15cb3a2a65a5e933bdf777f7e5fc3882152886adbb3271913662d561025b4cd4773a95a305
+
+[comp_8bit]
+A/comp_8bit=22|../src/comp_8bit.v|1|1*2877105
+BinW64/comp_8bit=3*1797532
+R=../src/comp_8bit.v|1
+SLP=3*1797651
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|7b788059e7376f5a3a48733770ed7dfd8a34b01b495ef09d1b3a74a79fd0d3ba6a8ba65c4919d82df4f205f82f070f2d
+
+[comparator_8bit_equal_basic]
+A/comparator_8bit_equal_basic=22|../src/comparator_8bit_equal_basic.v|1|1*2859985
+BinW64/comparator_8bit_equal_basic=3*1785736
+R=../src/comparator_8bit_equal_basic.v|1
+SLP=3*1786643
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|cadb8dc23aea69981eef788cf1fb32c8b5d59253480be9f892abc4f6873a69d922b06c81ee1d2917cd6a571c7906609184b1f478df811cd27a21b0f4a8a2e3d5
+
+[d_1bit]
+A/d_1bit=22|../src/d_1bit.v|3|1*2861617
+BinW64/d_1bit=3*1787109
+R=../src/d_1bit.v|3
+SLP=3*1787494
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4371357894bdfc25d8c0d42d84ba4d3b5b971de8eda276b04432ab0c8181983a
+
+[d_1bit_2]
+A/d_1bit_2=22|../src/d_1bit_2.v|3|1*2864261
+BinW64/d_1bit_2=3*1788220
+R=../src/d_1bit_2.v|3
+SLP=3*1788582
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|89910ed684b92ad89d3af4d769f89ab1e5f53674f3a7aeb8993b2406d54c965ab6bbed20e00a8d03878f04d902e0b0c2
+
+[d_8bit]
+A/d_8bit=22|../src/d_8bit.v|1|1*2862578
+BinW64/d_8bit=3*1787689
+R=../src/d_8bit.v|1
+SLP=3*1787805
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|41eca8a23006b44fc5b18b13458dc52482b0aa3abf4443ace594cc4cab8efbfc
+
+[d_8bit_2]
+A/d_8bit_2=22|../src/d_8bit_2.v|1|1*2865312
+BinW64/d_8bit_2=3*1788778
+R=../src/d_8bit_2.v|1
+SLP=3*1788896
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ea8c38f6c55e7eb9cffaa3d1ca198ca199dca4b1d16cdace0d346dd7c425a9192a7dc79cd926a50911ce85f5ec70c1a0
+
+[eq_all]
+A/eq_all=22|../src/eq_all.v|1|1*2879552
+BinW64/eq_all=3*1798284
+R=../src/eq_all.v|1
+SLP=3*1798735
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|408135efe28e54e69e63b5e49eea2de1c5d04e8a0584755942e9396a57c196bb
+
+[full_adder_1bit]
+A/full_adder_1bit=22|../src/full_adder_1bit.v|1|1*2870668
+BinW64/full_adder_1bit=3*1790642
+R=../src/full_adder_1bit.v|1
+SLP=3*1790767
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b0b4ac4ec4aef9b5d8311f758169c2a0bb5abb73e538d220a6027386e450c040f89c67e5c5c4bff44f9b42a131086e38
+
+[gcd]
+A/gcd=22|../src/gcd.v|1|1*2857443
+BinW64/gcd=3*1785080
+R=../src/gcd.v|1
+SLP=3*1785476
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f812164c58b0617c5f09c12d878e1436eef8d70053fc1fb841a6be1783e78fac
+
+[gcd_tb]
+A/gcd_tb=22|../src/gcd_tb.v|1|1*2900072
+BinW64/gcd_tb=3*1815173
+R=../src/gcd_tb.v|1
+SLP=3*1816211
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a790f258b7d0a8f269ab1db9da1c2204620766c8d41ebaf651d1abb7b42087b7
+
+[half_adder]
+A/half_adder=22|../src/half_adder.v|1|1*2874151
+BinW64/half_adder=3*1795013
+R=../src/half_adder.v|1
+SLP=3*1795380
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9d478890ab412e42d6b75255d560236f41ab0ed49771ee80612b3666c997a9c21db533cfdc62b112beee335d3db1681a
+
+[look_ahead]
+A/look_ahead=22|../src/look_ahead.v|1|1*2875084
+BinW64/look_ahead=3*1795570
+R=../src/look_ahead.v|1
+SLP=3*1796223
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f698972ad61d88c986359d9bdfd41d8eedadfe22874cdffb06993e7b16bc8575e98b0e876c4e636bfb9c99a8c95cf92c
+
+[mod]
+A/mod=22|../src/mod.v|1|1*2881430
+BinW64/mod=3*1799649
+R=../src/mod.v|1
+SLP=3*1800570
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|1da6765af899794c72b9e035266e744bbaae91ba44fb4997fc5859211ddfd322
+
+[multiplier_4bit]
+A/multiplier_4bit=22|../src/multiplier_4bit.v|1|1*2852196
+BinW64/multiplier_4bit=3*1780624
+R=../src/multiplier_4bit.v|1
+SLP=3*1781869
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c79ea88600d6472256968bfa9ae432346417ec52224efdb58666d02872c4e584e2a30273935c7d13f39c3c8f0e5bd41d
+
+[power_module]
+A/power_module=22|../src/power_module .v|1|1*2883164
+BinW64/power_module=3*1800989
+R=../src/power_module .v|1
+SLP=3*1802105
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f96bb6c56feb8ba9fcb82b8a8baf5a13191024dc3da619a71d91c989979f747ee43798b628cf937dc51ee89a736ad338
+
+[register_load]
+A/register_load=22|../src/register_load.v|3|1*2854765
+BinW64/register_load=3*1782602
+R=../src/register_load.v|3
+SLP=3*1783057
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ad6b4bdb9fde3dd7bdfef50b7db9b4c781eeaa6191f41fbdc785a877c55bd70dd5f5555d8131e6d1040e188bd4101a5f
+
+[sub_4bit_1bit]
+A/sub_4bit_1bit=22|../src/sub_4bit_1bit.v|1|1*2855909
+BinW64/sub_4bit_1bit=3*1783295
+R=../src/sub_4bit_1bit.v|1
+SLP=3*1784219
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|10aace3ff779c03b1f0028ea7c6a3f719670c7e9e7e72ea81bcb25cff035bffeaa35e953429dc42cc071113b4ec68ea8
+
+[sub_8bit]
+A/sub_8bit=22|../src/sub_8bit.v|1|1*2867010
+BinW64/sub_8bit=3*1789238
+R=../src/sub_8bit.v|1
+SLP=3*1789612
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|2bb4a05f087d7b013be7e94a72e53b0693196083980db39e69356c87174829a566420945f8bfa792e7a0132c5ccd0719
+
+[tb_comparator_8bit_equal_basic]
+A/tb_comparator_8bit_equal_basic=22|../src/tb_comparator_8bit_equal_basic.v|1|1*2613260
+BinW64/tb_comparator_8bit_equal_basic=3*1636468
+R=../src/tb_comparator_8bit_equal_basic.v|1
+SLP=3*1637210
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e0afbc64976809c076e3b8ca9c47c50794ff426d6aebebe96467944e91c19a49ad75f1275e87db80a98353609e8df740355c111785ea8575a3da56130e51c5df
+
+[~U]
+$root=12|0*928995|
+ALU=12|0*903711|
+ControlLogic=12|0*903017|
+ControlLogic_tb=12|0*929337||0x10
+ControlLogic_tb2=12|0*920143||0x10
+Decoder=12|0*902661|
+adder_8bit=12|0*906749|
+adder_look_ahead=12|0*907277|
+bus_mux=12|0*908609|
+clock=12|0*128278||0x10
+comp_1bit=12|0*907935|
+comp_8bit=12|0*908145|
+comparator_8bit_equal_basic=12|0*905340|
+d_1bit=12|0*905601|
+d_1bit_2=12|0*906046|
+d_8bit=12|0*905806|
+d_8bit_2=12|0*906257||0x10
+eq_all=12|0*908414|
+full_adder_1bit=12|0*907032|
+gcd=12|0*905025|
+gcd_tb=12|0*925504||0x10
+half_adder=12|0*907511|
+look_ahead=12|0*907722|
+mod=12|0*908818|
+multiplier_4bit=12|0*904323|
+power_module=12|0*909073||0x10
+register_load=12|0*904564|
+sub_4bit_1bit=12|0*904787|
+sub_8bit=12|0*906503|
+tb_comparator_8bit_equal_basic=12|0*825389||0x10
